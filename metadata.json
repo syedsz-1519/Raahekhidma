@@ -1,0 +1,6 @@
+{
+  "name": "Raah-e-Khidmah",
+  "description": "Transparent Islamic non-profit foundation providing 100% verified direct relief Fi Sabeelillah with live case tracking, Zakat calculator, and radical audit accountability.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
